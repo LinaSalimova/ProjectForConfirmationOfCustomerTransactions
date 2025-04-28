@@ -1,0 +1,5 @@
+mail.smtp.host=ваш.smtp.server.com  # Адрес SMTP-сервера, разрешающего анонимную отправку
+mail.smtp.port=25                   # Стандартный порт для SMTP без шифрования
+mail.smtp.auth=false                # Отключаем аутентификацию
+mail.smtp.starttls.enable=false     # Отключаем шифрование
+email.from=noreply@yourdomain.com   # Произвольный адрес отправителя
